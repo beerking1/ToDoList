@@ -1,0 +1,7 @@
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.exe.config
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.exe
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.pdb
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.csproj.AssemblyReference.cache
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.csproj.CoreCompileInputs.cache
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.exe
+C:\Users\janbi\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.pdb
